@@ -1,0 +1,15 @@
+LR
+
+11A = (11B, XXX)
+11B = (XXX, 11Z)
+11Z = (11B, XXX)
+22A = (22B, XXX)
+22B = (XXX, 22C)
+22C = (22Z, XXX)
+22Z = (XXX, 22C)
+33A = (33B, XXX)
+33B = (XXX, 33C)
+33C = (33D, XXX)
+33D = (XXX, 33Z)
+33Z = (33D, XXX)
+XXX = (XXX, XXX)
